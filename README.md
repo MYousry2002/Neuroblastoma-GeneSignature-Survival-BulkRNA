@@ -17,6 +17,7 @@ The dataset used in this analysis includes the following:
 ## Repository Contents
 Below is a map of the repository, detailing the main components and their purpose:
 
+```php
 -Neuroblastoma-GeneSignature-Survival-BulkRNA
 │
 ├── dataset                                             # Folder containing all datasets used
@@ -34,6 +35,7 @@ Below is a map of the repository, detailing the main components and their purpos
 ├── Neuroblastoma-GeneSignature-Survival-BulkRNA.ipynb  # Main Jupyter notebook with analysis
 ├── README.md                                           # Detailed description of the project, repository, and usage
 └── requirements.txt                                    # Required Python libraries for running the project
+```
 
 ## Installation and Requirements
 Ensure you have Python 3.x installed. To install all required libraries, run the following command:
