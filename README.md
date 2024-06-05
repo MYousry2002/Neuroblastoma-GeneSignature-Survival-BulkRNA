@@ -9,8 +9,8 @@ The dataset used in this analysis includes the following:
 
 - Gene expression data from bulk RNA sequencing of neuroblastoma samples that is normalized and Log2 transformed accessed from [GSE49711](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE49711). 
 - Pateints Meta Data accessed from [GSE49711](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE49711) and [GSE62564](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE62564). Key variables include:
-    - `os_days`: Overall survival in days.
-    - `os_event`: Event indicator (1 if the death event occurred, 0 otherwise).
+    - `os days`: Overall survival in days.
+    - `os bin`: Event indicator (1 if the death event occurred, 0 otherwise).
 - Human gene sets for the gene pathways analyzed accessed from the [Gene Set Enrichment Analysis](https://www.gsea-msigdb.org/gsea/msigdb/human/genesets.jsp?collection=H).
 
 
