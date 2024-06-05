@@ -1,5 +1,4 @@
 # Neuroblastoma Gene Signature Survival Analysis in Bulk RNA-seq data
-Gene Signature Survival analysis for Bulk RNA data from Neuroblastoma pateints.
 
 ## Project Overview
 This project focuses on the survival analysis of neuroblastoma patients using gene signature scores derived from bulk RNA sequencing data. The goal is to identify key gene signatures that correlate with survival outcomes. Gene Pathways in the analysis include TGF-Beta, IL2/STAT5, IL6/JAK/STAT3, IFN-Alpha, IFN-Gamma, Inflamatory, and Housekeeping ACTB. The survival analysis includes quantile-stratified analysis using the Kaplan-Meier Plot and continuous analysis using the Cox proportional hazards regression model.
