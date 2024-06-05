@@ -1,4 +1,4 @@
-# Neuroblastoma Gene Signature Survival Analysis
+# Neuroblastoma Gene Signature Survival Analysis in Bulk RNA-seq data
 Gene Signature Survival analysis for Bulk RNA data from Neuroblastoma pateints.
 
 ## Project Overview
